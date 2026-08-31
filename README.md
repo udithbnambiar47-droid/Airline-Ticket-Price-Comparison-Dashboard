@@ -34,5 +34,5 @@ The various features of the cleaned dataset are explained below:
 7) Destination City: City where the flight will land. It is a categorical feature having 6 unique cities.
 8) Class: A categorical feature that contains information on seat class; it has two distinct values: Business and Economy.
 9) Duration: A continuous feature that displays the overall amount of time it takes to travel between cities in hours.
-10)Days Left: This is a derived characteristic that is calculated by subtracting the trip date by the booking date.
+10) Days Left: This is a derived characteristic that is calculated by subtracting the trip date by the booking date.
 11) Price: Target variable stores information of the ticket price.
