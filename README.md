@@ -25,7 +25,7 @@ e) **How does the ticket price vary between Economy and Business class?**
 
 ## DATASET
 
-Dataset contains information about flight booking options from the website Easemytrip for flight travel between India's top 6 metro cities. There are 300261 datapoints and 11 features in the cleaned dataset.
+**Dataset contains information about flight booking options from the website Easemytrip for flight travel between India's top 6 metro cities. There are 300261 datapoints and 11 features in the cleaned dataset.**
 
 ## FEATURES
 
