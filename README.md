@@ -2,12 +2,12 @@
 
 ## INTRODUCTION
 
-This Power BI dashboard analyzes an Ease My Trip dataset containing eleven distinct features—including continuous variables like duration and categorical variables like airline—to uncover airline pricing behavior.
+**This Power BI dashboard analyzes an Ease My Trip dataset containing eleven distinct features—including continuous variables like duration and categorical variables like airline—to uncover airline pricing behavior.
 By examining journey specifics such as source city, destination city, stops, departure time, and arrival time,
 the dashboard maps out how complex routing influences ticket costs.
 It highlights the direct financial impact of choices like booking economy versus business class, as well as the behavior of specific flight codes across six major carriers.
 A key analytical focus centers on days left, evaluating how the timeline between booking and travel dates affects the continuous target variable: price .
-Ultimately, this visual tool synthesizes these dimensional features into actionable insights, helping passengers optimize their travel times and budgets without needing complex machine learning.
+Ultimately, this visual tool synthesizes these dimensional features into actionable insights, helping passengers optimize their travel times and budgets without needing complex machine learning.**
 
 ## Research Questions
 
