@@ -2,7 +2,12 @@
 
 ## INTRODUCTION
 
-This Power BI dashboard analyzes an EaseMyTrip dataset containing eleven distinct features—including continuous variables like duration and categorical variables like airline—to uncover airline pricing behavior.By examining journey specifics such as source city, destination city, stops, departure time, and arrival time, the dashboard maps out how complex routing influences ticket costs.It highlights the direct financial impact of choices like booking economy versus business class, as well as the behavior of specific flight codes across six major carriers.A key analytical focus centers on days left, evaluating how the timeline between booking and travel dates affects the continuous target variable: price.Ultimately, this visual tool synthesizes these dimensional features into actionable insights, helping passengers optimize their travel times and budgets without needing complex machine learning.
+This Power BI dashboard analyzes an Ease My Trip dataset containing eleven distinct features—including continuous variables like duration and categorical variables like airline—to uncover airline pricing behavior.
+By examining journey specifics such as source city, destination city, stops, departure time, and arrival time,
+the dashboard maps out how complex routing influences ticket costs.
+It highlights the direct financial impact of choices like booking economy versus business class, as well as the behavior of specific flight codes across six major carriers.
+A key analytical focus centers on days left, evaluating how the timeline between booking and travel dates affects the continuous target variable: price .
+Ultimately, this visual tool synthesizes these dimensional features into actionable insights, helping passengers optimize their travel times and budgets without needing complex machine learning.
 
 ## Research Questions
 
@@ -17,11 +22,6 @@ c) Does ticket price change based on the departure time and arrival time?
 d) How the price changes with change in Source and Destination?
 
 e) How does the ticket price vary between Economy and Business class?
-
-## DATA COLLECTION AND METHODOLOGY
-
-Octoparse scraping tool was used to extract data from the website. Data was collected in two parts: one for economy class tickets and another for business class tickets. A total of 300261 distinct flight booking options was extracted from the site. Data was collected for 50 days, from February 11th to March 31st, 2022.
-Data source was secondary data and was collected from Ease my trip website.
 
 ## DATASET
 
