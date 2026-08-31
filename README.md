@@ -37,4 +37,5 @@ The various features of the cleaned dataset are explained below:
 10)Days Left: This is a derived characteristic that is calculated by subtracting the trip date by the booking date.
 11) Price: Target variable stores information of the ticket price.
 
-===================To boost learning, try to create an end-to-end project using the dataset.==================================
+=================== To boost learning, try to create an end-to-end project using the dataset. 
+==================================
